@@ -4,7 +4,6 @@
 
 - [Introduction](README.md)
 - [Contribute](misc/contribute.md)
-- [Donate](https://ko-fi.com/tudorhc5)
 
 # Programs
 
